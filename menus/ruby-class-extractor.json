@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Extract class",
+        "command": "ruby-class-extractor:extract"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "ruby-class-extractor",
+          "submenu": [
+            {
+              "label": "Extract",
+              "command": "ruby-class-extractor:extract"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "atom-workspace": {
+    "ctrl-shift-c": "ruby-class-extractor:extract",
+    "cmd-shift-c": "ruby-class-extractor:extract"
+  }
+}
